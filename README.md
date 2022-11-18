@@ -1,0 +1,3 @@
+🌱 I’m currently learning ...
+
+I have some basic khowledge about Power BI as I am on learning period and I want to know more about this tool like how to make dashboards, graphs and charts. Help me to explore it. 
